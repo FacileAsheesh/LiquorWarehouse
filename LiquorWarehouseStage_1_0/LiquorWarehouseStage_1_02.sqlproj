@@ -616,6 +616,17 @@
     <Build Include="SRSIn\Tables\MasterSupDistributor.sql" />
     <Build Include="SRSIn\Tables\FileLayout.sql" />
     <Build Include="SRSIn\Tables\FileHeader.sql" />
+    <Build Include="SRSIn\Tables\DepletionsControl.sql" />
+    <Build Include="SRSIn\Tables\DistributonItemCrossreference.sql" />
+    <Build Include="SRSIn\Tables\DistributorSaleCalendar.sql" />
+    <Build Include="SRSIn\Tables\DistributorSalesperson.sql" />
+    <Build Include="SRSIn\Tables\FutureSaleOrders.sql" />
+    <Build Include="SRSIn\Tables\Inventory.sql" />
+    <Build Include="SRSIn\Tables\NonReporters.sql" />
+    <Build Include="SRSIn\Tables\RetailOutlets.sql" />
+    <Build Include="SRSIn\Tables\Sales.sql" />
+    <Build Include="SRSIn\Tables\SalesControl.sql" />
+    <Build Include="SRSIn\Tables\SummaryDepletions.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="LiquorWarehouseStage_1_02.refactorlog" />
