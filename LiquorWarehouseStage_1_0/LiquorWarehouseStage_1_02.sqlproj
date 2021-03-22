@@ -604,7 +604,18 @@
     <Build Include="Temp\Tables\SFgvp__RAD__c.sql" />
     <Build Include="GVP\Tables\RADSnap.sql" />
     <Build Include="GVP\Tables\gvp__Account_Activity__c.sql" />
-    <Build Include="SRSIn\Tables\FileFooter_1.sql" />
+    <Build Include="SRSIn\Tables\FileFooter.sql" />
+    <Build Include="SRSIn\Tables\VIPOutletMaster.sql" />
+    <Build Include="SRSIn\Tables\VIPOutletCrossReference.sql" />
+    <Build Include="SRSIn\Tables\VIPOUTOwnershipHierarchy.sql" />
+    <Build Include="SRSIn\Tables\VIPOUTOwnershipDescription.sql" />
+    <Build Include="SRSIn\Tables\VIPFieldValues.sql" />
+    <Build Include="SRSIn\Tables\VIPClassofTrade.sql" />
+    <Build Include="SRSIn\Tables\VIPChainCode.sql" />
+    <Build Include="SRSIn\Tables\MasterSupItem.sql" />
+    <Build Include="SRSIn\Tables\MasterSupDistributor.sql" />
+    <Build Include="SRSIn\Tables\FileLayout.sql" />
+    <Build Include="SRSIn\Tables\FileHeader.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="LiquorWarehouseStage_1_02.refactorlog" />
