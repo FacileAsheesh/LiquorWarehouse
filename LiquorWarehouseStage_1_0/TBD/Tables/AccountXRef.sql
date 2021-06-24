@@ -1,4 +1,4 @@
-﻿CREATE TABLE [TBD].[AccountCrossReference] (
+﻿CREATE TABLE [SRSXREF].[AccountXRef] (
     [Id] [char](18) NOT NULL,
     [Name] [nvarchar](250) NULL,
     [BillingStreet] [nvarchar](255) NULL,

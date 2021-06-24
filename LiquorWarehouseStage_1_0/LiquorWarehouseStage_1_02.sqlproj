@@ -646,8 +646,8 @@
     <Build Include="SRSDW\Tables\VOOWNHIER.sql" />
     <Build Include="SRSDW\Tables\VOXREF.sql" />
     <Build Include="Security\SRSDW.sql" />
-    <Build Include="Security\TBD.sql" />
-    <Build Include="TBD\Tables\AccountCrossReference.sql" />
+    <Build Include="Security\SRSXREF.sql" />
+    <Build Include="TBD\Tables\AccountXRef.sql" />
     <Build Include="SRSDW\Tables\ProductValidation.sql" />
   </ItemGroup>
   <ItemGroup>
