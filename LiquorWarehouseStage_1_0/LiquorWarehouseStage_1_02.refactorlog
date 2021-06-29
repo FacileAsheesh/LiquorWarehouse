@@ -21,4 +21,11 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="[IX_RAD_RADKey]" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="7d998a78-ec10-48ea-bb92-f70046d8a430" ChangeDateTime="06/29/2021 06:45:23">
+    <Property Name="ElementName" Value="[dbo].[LoadLog].[RUUID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[LoadLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ruuid" />
+  </Operation>
 </Operations>
